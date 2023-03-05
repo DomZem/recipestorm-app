@@ -4,7 +4,7 @@ const App = () => {
   return (
     <div className="flex">
       <Sidebar />
-      <main className="h-screen flex-1 overflow-y-auto bg-gray-100 p-6">
+      <main className="h-screen flex-1 overflow-y-auto bg-gray-100 px-6 py-4">
         <p>
           Lorem ipsum dolor, sit amet consectetur adipisicing elit. Labore deserunt alias sapiente vero fuga reiciendis
           cupiditate consequuntur voluptate impedit voluptas. Id quam aut obcaecati! Corrupti, neque, rerum eveniet
